@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0048/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部八
+  hash: sha256:ed7b890dbd4c5a48db16c46d7fbf2f236332a20a938d6348e5c3606dd689b6ba
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0048_WYG_000-1a, image: WYG0816/WYG0816-0153a.png}
+body:
+  text: 書訣藝術類一書畫之屬提要臣等謹案書訣一卷不著撰人姓氏明史藝文志亦未著録案書中稱其十世祖名稷曽祖名慶祖名耘考名熈則當為嘉靖間鄞人豐坊所作也坊有古易世學已著録其生平好作偽書妄謬萬端至今為世詬厲然於書法則有所心得故詹氏小辨曰坊為人亦出法紀外而書學極博五體並能諸家自魏晋以及國朝靡不兼通規矩盡從手出盖工於執筆者也以故其書大有腕力特神韻稍不足朱謀垔書史㑹要亦曰坊草書自晋唐而來無今人一筆態度惟喜用枯筆乏風韻耳是編皆論學書之法而尤注意於篆籀又排比古今能書之家詳其次第其論顔真卿獨推其擘窠題署第一而詆東方朔贊多寳塔碑為俗筆又貶蘇軾以肉襯紙甚有俗氣於楷法僅取其上清儲祥宮碑等三種務為髙論盖猶其狂易之餘態要亦各抒所見固與無實大言者異矣乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:b62afadc4ab244e4871dd4d5d78c2393c03b69095bd676c63803d27b42641727
+metadata:
+  title: 書訣
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:15:19.787108'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3h0048/KR3h0048_000.txt
+hash: sha256:767681148f771ad3ca5f289e0c8f676c641ede0cecc3bca6805903cd2c8763d2

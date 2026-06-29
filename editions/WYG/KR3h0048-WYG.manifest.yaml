@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR3h0048/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3h0048/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 書訣
+  date: '2015-08-24 23:15:19.787108'
+  source:
+    repository: kanripo
+    path: KR3h0048
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3h0048_000-WYG.yaml, hash: 'sha256:767681148f771ad3ca5f289e0c8f676c641ede0cecc3bca6805903cd2c8763d2'}
+  - {seq: 1, filename: KR3h0048_001-WYG.yaml, hash: 'sha256:5397ee30cad60759577a85089495cb5ee1cd715f943a82582defa36c9072aa04'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3h0048_000-WYG.markers.yaml, hash: 'sha256:664bf637d1161b40266acf0e2f7f46e888f637248edbb0707f10f00444957fac'}
+  - {seq: 1, role: markers, filename: assets/KR3h0048_001-WYG.markers.yaml, hash: 'sha256:446698122e9ed62ff914374c351fe7a3aa669c95b20b991c580a96992f412150'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3h0048_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 340
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3h0048_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 21520
+  label: 書訣
+  type: section
+  level: 1
+hash: sha256:1f872000fff08e55c0717b25d0434bd56949c7a48a56709d13f9417e7f17fde2
